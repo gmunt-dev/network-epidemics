@@ -1,6 +1,6 @@
 # [Title]
 
-**Group members:** [Name 1], [Name 2], [Name 3]
+**Group members:** Gustaf Munther, Erik Hedström, Hugo Westberg
 **Affiliation:** Chalmers University of Technology
 
 ## Abstract
