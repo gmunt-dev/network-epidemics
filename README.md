@@ -13,10 +13,12 @@
 
 ## Tutorials
 
-1.
-2.
+1. **Clustering: Does Living in Close Groups Slow Down an Epidemic?**
+    We simulate how clustering in contact networks affects the spread of an epidemic, using a stochastic SIR model. We generate Watts-Strogatz small-world networks and vary the rewiring probability p, which changes the clustering while the number of contacts per individual stays the same. For each value of p we measure the clustering coefficient and the average path length, and compare the results with Erdős–Rényi and Barabási–Albert networks. By varying the transmission probability and the level of clustering, we examine how clustering influences the final size, peak and speed of the outbreak, and wether the spread is controlled mainly by clustering or by short paths in the network. Multiple independent simulations are performed to account for stochastic variation.
+   
+3.
 
-3. **Herd Immunity: Can a Second Epidemic Be Prevented?** 
+4. **Herd Immunity: Can a Second Epidemic Be Prevented?** 
     We investigate how network structure affects herd immunity and the risk of a second epidemic outbreak using a COVID-inspired stochastic SIR model. We generate Erdős–Rényi, Watts–Strogatz and Barabási–Albert networks to represent different contact distributions and clustering levels. After simulating an initial outbreak, recovered individuals remain immune, and a new infection is introduced among the remaining susceptible individuals. By varying transmission probability and network topology, we examine how the immunity acquired during the first outbreak influences the probability and size of a second outbreak. Multiple independent simulations are performed to account for stochastic variation.
 
 ## References
