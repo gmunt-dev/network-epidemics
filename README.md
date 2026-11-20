@@ -1,7 +1,7 @@
 # [Title]
 
 **Group members:** Gustaf Munther, Erik Hedström, Hugo Westberg
-**Affiliation:** Chalmers University of Technology
+**Affiliation:** Complex Adaptive Systems, year 1, Chalmers University of Technology
 
 ## Abstract
 
