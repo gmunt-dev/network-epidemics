@@ -46,5 +46,5 @@ We investigate which vaccination strategy most efficiently prevents a large outb
 ## Contributions
 
 - **[Name 1]:**
-- **[Name 2]:**
+- **Gustaf Munther** Lead author of Tutorial 2 - Vaccination
 - **Hugo Westberg:** Lead author of Tutorial 3 – Herd Immunity.
