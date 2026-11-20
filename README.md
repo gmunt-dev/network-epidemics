@@ -24,7 +24,7 @@
 ## References
 
 ### Clustering: Does Living in Close Groups Slow Down an Epidemic?
-1. Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of ‘small-world’ networks. Nature, 393, 440–442. https://doi.org/10.1038/30918
+1. Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of ‘small-world’ networks. Nature, 393, 440–442. [https://doi.org/10.1038/30918](https://www.nature.com/articles/30918)
 2. 
 
 ### Herd Immunity: Can a Second Epidemic Be Prevented?
