@@ -34,6 +34,9 @@ We investigate which vaccination strategy most efficiently prevents a large outb
 ### Vaccination: Who should be vaccinated first?
 1. Cohen, R., Havlin, S., & ben-Avraham, D. (2003). Efficient Immunization Strategies for Computer Networks and Populations. Physical Review Letters, 91(24), 247901. https://doi.org/10.1103/PhysRevLett.91.247901
 
+2. Pastor-Satorras, R., & Vespignani, A. (2002). Immunization of complex networks. Physical Review E, 65(3), 036104. https://doi.org/10.1103/PhysRevE.65.036104
+
+3.Feld, S. L. (1991). Why Your Friends Have More Friends Than You Do. American Journal of Sociology, 96(6), 1464–1477. https://doi.org/10.1086/229693
 
 ### Herd Immunity: Can a Second Epidemic Be Prevented?
 1. Pastor-Satorras, R., Castellano, C., Van Mieghem, P., & Vespignani, A. (2015). Epidemic processes in complex networks. *Reviews of Modern Physics, 87*, 925–979. https://doi.org/10.1103/RevModPhys.87.925
