@@ -27,7 +27,8 @@
 1. Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of ‘small-world’ networks. Nature, 393, 440–442. [https://doi.org/10.1038/30918](https://www.nature.com/articles/30918)
 
 2. Moore, C., & Newman, M. E. J. (2000). Epidemics and percolation in small-world networks. Physical Review E, 61, 5678–5682. https://journals.aps.org/pre/abstract/10.1103/PhysRevE.61.5678
-3. 
+
+3. Newman, M. E. J. (2002). Spread of epidemic disease on networks. Physical Review E, 66, 016128. https://journals.aps.org/pre/abstract/10.1103/PhysRevE.66.016128
 
 ### Herd Immunity: Can a Second Epidemic Be Prevented?
 1. Pastor-Satorras, R., Castellano, C., Van Mieghem, P., & Vespignani, A. (2015). Epidemic processes in complex networks. *Reviews of Modern Physics, 87*, 925–979. https://doi.org/10.1103/RevModPhys.87.925
