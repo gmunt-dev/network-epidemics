@@ -22,7 +22,9 @@
     We investigate how network structure affects herd immunity and the risk of a second epidemic outbreak using a COVID-inspired stochastic SIR model. We generate Erdős–Rényi, Watts–Strogatz and Barabási–Albert networks to represent different contact distributions and clustering levels. After simulating an initial outbreak, recovered individuals remain immune, and a new infection is introduced among the remaining susceptible individuals. By varying transmission probability and network topology, we examine how the immunity acquired during the first outbreak influences the probability and size of a second outbreak. Multiple independent simulations are performed to account for stochastic variation.
 
 ## References
-1. 
+
+### Clustering: Does Living in Close Groups Slow Down an Epidemic?
+1. Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of ‘small-world’ networks. Nature, 393, 440–442. https://doi.org/10.1038/30918
 2. 
 
 ### Herd Immunity: Can a Second Epidemic Be Prevented?
